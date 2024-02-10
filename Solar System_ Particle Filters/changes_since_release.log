@@ -1,0 +1,4 @@
+Date: 02-08-2024
+
+**Changed**
+- testing_suite_full.py: Updated default value for flags PART_A and PART_B from False to True.
